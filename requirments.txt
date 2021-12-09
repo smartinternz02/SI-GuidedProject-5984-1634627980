@@ -1,0 +1,6 @@
+Install Python IDE	-For programming
+Install pytesseract 	-OCR package in python
+Install pdf2image	-Converting PDF to Image
+Install tesseract	-ocr execution file -Backend used for pytesseract
+Install poppler		-Supporting file for pdf2image package
+Install Flask		-Build web application
