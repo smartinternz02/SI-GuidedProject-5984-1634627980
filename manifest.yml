@@ -1,0 +1,6 @@
+---applications:
+
+-name: Python Flask App PDF_Image to Text
+random-route: true
+memory: 512M
+disk_quota:1.5G
